@@ -232,15 +232,15 @@ SELECT COUNT(*), CASE
  GROUP BY Do_You_Have_100_Dollars;
 
 SELECT first_name
-	FROM mock_user_data
+  FROM mock_user_data
  WHERE first_name
-	LIKE "T%"
-	 AND first_name
-	LIKE "%A%";
+  LIKE "T%"
+   AND first_name
+  LIKE "%A%";
 
 SELECT first_name
 	FROM mock_user_data
  WHERE first_name
-	LIKE "A%"
-		OR first_name
-	LIKE "T%";
+  LIKE "A%"
+    OR first_name
+  LIKE "T%";
