@@ -239,7 +239,7 @@ SELECT first_name
   LIKE "%A%";
 
 SELECT first_name
-	FROM mock_user_data
+  FROM mock_user_data
  WHERE first_name
   LIKE "A%"
     OR first_name
