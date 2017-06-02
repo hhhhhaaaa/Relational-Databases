@@ -134,3 +134,14 @@ INSERT INTO songs VALUES (113,'Bomb Yourself',10,331,8);
 INSERT INTO songs VALUES (114,'Wear You Out',10,440,9);
 INSERT INTO songs VALUES (115,'You Could Be Love',10,436,10);
 INSERT INTO songs VALUES (116,'Staring at the Sun (Demo)',10,377,11);
+
+INSERT INTO playlist VALUES (1, 10, 20, 30, 40, 50);
+INSERT INTO playlist VALUES (2, 1, 5, 7, 10, 11);
+INSERT INTO playlist VALUES (3, 25, 65, 35, 95, 115);
+INSERT INTO playlist VALUES (4, 35, 34, 33, 32, 31);
+INSERT INTO playlist VALUES (5, 6, 8, 23, 54, 90);
+INSERT INTO playlist VALUES (6, 2, 34, 75, 37, 56);
+INSERT INTO playlist VALUES (7, 34, 92, 95, 85, 23);
+INSERT INTO playlist VALUES (8, 8, 45, 67, 54, 90);
+INSERT INTO playlist VALUES (9, 90, 80, 70, 60, 1);
+INSERT INTO playlist VALUES (10, 116, 90, 60, 30, 6);
